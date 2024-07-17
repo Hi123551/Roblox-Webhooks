@@ -8,7 +8,7 @@ if %errorlevel% equ 0 (
     pip install robloxpy requests browser_cookie3 discord psutil pyautogui discord_webhook
 ) else (
     rem Python is not found, display an error message
-    echo Python was not found. Please install the latest version of Python.
+    echo Python was not found. Please install the latest version of you suck Python.
 )
 
 pause
